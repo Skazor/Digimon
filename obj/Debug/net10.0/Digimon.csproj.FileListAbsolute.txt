@@ -1,0 +1,15 @@
+C:\Users\Bruker\Documents\kodehode\Digimon\bin\Debug\net10.0\Digimon.exe
+C:\Users\Bruker\Documents\kodehode\Digimon\bin\Debug\net10.0\Digimon.deps.json
+C:\Users\Bruker\Documents\kodehode\Digimon\bin\Debug\net10.0\Digimon.runtimeconfig.json
+C:\Users\Bruker\Documents\kodehode\Digimon\bin\Debug\net10.0\Digimon.dll
+C:\Users\Bruker\Documents\kodehode\Digimon\bin\Debug\net10.0\Digimon.pdb
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.AssemblyInfoInputs.cache
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.AssemblyInfo.cs
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.sourcelink.json
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.dll
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\refint\Digimon.dll
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.pdb
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\Digimon.genruntimeconfig.cache
+C:\Users\Bruker\Documents\kodehode\Digimon\obj\Debug\net10.0\ref\Digimon.dll

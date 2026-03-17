@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digimon", "Digimon.csproj", "{141BC1DC-D519-5AD1-8599-71988920D41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141BC1DC-D519-5AD1-8599-71988920D41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141BC1DC-D519-5AD1-8599-71988920D41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141BC1DC-D519-5AD1-8599-71988920D41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141BC1DC-D519-5AD1-8599-71988920D41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36CBB750-8F12-413B-B4C6-A067F8D85E4D}
+	EndGlobalSection
+EndGlobal
