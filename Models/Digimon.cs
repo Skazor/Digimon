@@ -1,4 +1,4 @@
-namespace Digimon.Models;
+namespace DigimonApp.Models;
 
 // Representerer én rad i CSV-filen, en Digimon med alle dens egenskaper
 public class Digimon

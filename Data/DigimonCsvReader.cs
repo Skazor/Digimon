@@ -1,6 +1,6 @@
-using Digimon.Models;
+using DigimonApp.Models;
 
-namespace Digimon.Data;
+namespace DigimonApp.Data;
 
 // Ansvar: Lese CSV-filen og parse hver rad til et Digimon-objekt
 public class DigimonCsvReader
