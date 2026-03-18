@@ -1,6 +1,6 @@
 namespace Digimon.Models;
 
-// Representerer én rad i CSV-filen – én Digimon med alle dens egenskaper
+// Representerer én rad i CSV-filen, en Digimon med alle dens egenskaper
 public class Digimon
 {
     public int    Number     { get; set; }
