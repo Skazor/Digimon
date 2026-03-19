@@ -22,7 +22,7 @@ public static class DigimonView
         Console.WriteLine("\n--- Alle Digimon-navn ---");
         int i = 1;
         foreach (var n in navn)
-            Console.WriteLine($"  {i++}. {navn}");
+            Console.WriteLine($"  {i++}. {n}");
     }
 
     public static void ShowDigimonList(IEnumerable<Digimon> liste, string tittel)
