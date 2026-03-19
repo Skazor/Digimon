@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Digimon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dcd1f336a660b5ae84eab7ca3ce234ac2544f72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80023125a3cd297111bbe4ab3263d6024d01485b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Digimon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Digimon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
