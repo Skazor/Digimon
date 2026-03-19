@@ -1,10 +1,13 @@
 namespace DigimonApp.Models;
 
-// Representerer én rad i CSV-filen, en Digimon med alle dens egenskaper
+// Model laget i MVC, representerer en rad i CSV-filen
+// En instans av denne klassen = en Digimon
 public class Digimon
 {
+    // { get; set; } property, privat felt med get og set metoder
+    // int = heltall, string = tekst
     public int    Number     { get; set; }
-    public string Name       { get; set; } = string.Empty;
+    public string Name       { get; set; } = string.Empty; // = string.Empty unngår null advarsel
     public string Stage      { get; set; } = string.Empty;
     public string Type       { get; set; } = string.Empty;
     public string Attribute  { get; set; } = string.Empty;
